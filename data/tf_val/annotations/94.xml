@@ -1,0 +1,26 @@
+<annotation>
+	<folder>ibm-servers-images-final</folder>
+	<filename>94.jpg</filename>
+	<path>/home/fbarilla/Android-Object-Detection/images/ibm-servers-images-final/94.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>350</width>
+		<height>232</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>ibm-server</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>30</xmin>
+			<ymin>39</ymin>
+			<xmax>314</xmax>
+			<ymax>126</ymax>
+		</bndbox>
+	</object>
+</annotation>
